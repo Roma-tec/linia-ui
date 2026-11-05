@@ -1,0 +1,35 @@
+/* Линия: токены передачи разработчику */
+:root {
+  --color-bg: #11131a;
+  --color-panel: #1c1f29;
+  --color-raised: #292e3b;
+  --color-line: #3d4558;
+  --color-text: #f0f2fa;
+  --color-muted: #b2bdd2;
+  --color-accent: #b5a1ff;
+  --color-on: #181129;
+}
+[data-theme='light'] {
+  --color-bg: #f3f4f8;
+  --color-panel: #ffffff;
+  --color-raised: #eceef5;
+  --color-line: #a7afbf;
+  --color-text: #202332;
+  --color-muted: #535e75;
+  --color-accent: #6541c4;
+  --color-on: #ffffff;
+}
+:root {
+  --space-4: 4px;
+  --space-8: 8px;
+  --space-12: 12px;
+  --space-16: 16px;
+  --space-24: 24px;
+  --space-32: 32px;
+  --space-48: 48px;
+  --font: Inter, sans-serif;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --control-height: 44px;
+  --motion-base: 180ms;
+}

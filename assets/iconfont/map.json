@@ -1,0 +1,10 @@
+{
+  "brush": "U+E000",
+  "eraser": "U+E001",
+  "rectangle": "U+E002",
+  "text": "U+E003",
+  "plus": "U+E004",
+  "layers": "U+E005",
+  "export": "U+E006",
+  "close": "U+E007"
+}
