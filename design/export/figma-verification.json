@@ -7,7 +7,23 @@
   "editableTextNodesOnPrototypePage": 1336,
   "brokenDestinationIds": [],
   "hotspotsOutOfFrame": [],
-  "manuallyClickedFlow": ["Войти", "Новый проект", "Создать", "Экспорт", "Скачать"],
+  "manuallyClickedFlow": [
+    "Войти",
+    "Новый проект",
+    "Создать",
+    "Экспорт",
+    "Скачать"
+  ],
   "observedResult": "Показано состояние ST_Exported_Dark",
-  "limitations": ["Не все ветви пройдены вручную", "Свободный ввод и рисование имитируются", "Пользовательские интервью не проводились"]
+  "limitations": [
+    "Не все ветви пройдены вручную",
+    "Свободный ввод и рисование имитируются",
+    "Пользовательские интервью не проводились"
+  ],
+  "exportMaterials": 102,
+  "newMaterialsUploaded": 24,
+  "updatedReferenceFramesUploaded": 12,
+  "currentTotalFrames": 114,
+  "syncStatus": "partial: new materials uploaded; 12 reference frames await replacement of original content",
+  "blocker": "Figma use_figma Starter limit; browser not signed in"
 }

@@ -1,0 +1,185 @@
+{
+  "status": "awaiting authorized editor",
+  "uploads": [
+    {
+      "name": "ST_Layer_Dark",
+      "referenceOnly": true,
+      "placedOnNodeId": "7:2"
+    },
+    {
+      "name": "ST_Filter_Dark",
+      "referenceOnly": true,
+      "placedOnNodeId": "7:78"
+    },
+    {
+      "name": "ST_Blocked_Dark",
+      "referenceOnly": true,
+      "placedOnNodeId": "7:145"
+    },
+    {
+      "name": "ST_Filter_Light",
+      "referenceOnly": true,
+      "placedOnNodeId": "7:189"
+    },
+    {
+      "name": "ST_Layer_Light",
+      "referenceOnly": true,
+      "placedOnNodeId": "7:256"
+    },
+    {
+      "name": "S3_Tablet_Dark",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:332"
+    },
+    {
+      "name": "S5_Tablet_Dark",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:385"
+    },
+    {
+      "name": "ST_Blocked_Light",
+      "referenceOnly": true,
+      "placedOnNodeId": "7:440"
+    },
+    {
+      "name": "S4_Tablet_Dark",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:484"
+    },
+    {
+      "name": "S6_Tablet_Dark",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:537"
+    },
+    {
+      "name": "S12_Landscape_Dark",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:610"
+    },
+    {
+      "name": "S5_Tablet_Light",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:645"
+    },
+    {
+      "name": "S4_Tablet_Light",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:700"
+    },
+    {
+      "name": "S3_Tablet_Light",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:753"
+    },
+    {
+      "name": "S6_Tablet_Light",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:806"
+    },
+    {
+      "name": "Wireframe_S12_Portrait",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:879"
+    },
+    {
+      "name": "Prototype_S12_Portrait",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:891"
+    },
+    {
+      "name": "Prototype_S12_Landscape",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:913"
+    },
+    {
+      "name": "S12_Landscape_Light",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:942"
+    },
+    {
+      "name": "Wireframe_S12_Landscape",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:977"
+    },
+    {
+      "name": "Prototype_ST_Register",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:986"
+    },
+    {
+      "name": "Prototype_ST_Saved",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:1027"
+    },
+    {
+      "name": "Prototype_ST_Error",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:1098"
+    },
+    {
+      "name": "Prototype_ST_Empty",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:1164"
+    },
+    {
+      "name": "Prototype_ST_New",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:1195"
+    },
+    {
+      "name": "Prototype_ST_Layer",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:1260"
+    },
+    {
+      "name": "Prototype_ST_Filter",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:1331"
+    },
+    {
+      "name": "Prototype_ST_Blocked",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:1392"
+    },
+    {
+      "name": "Prototype_ST_Exported",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:1436"
+    },
+    {
+      "name": "Prototype_ST_Undo",
+      "referenceOnly": false,
+      "placedOnNodeId": "7:1507"
+    },
+    {
+      "name": "A4_User_Flow_Map",
+      "referenceOnly": true,
+      "placedOnNodeId": "7:1578"
+    },
+    {
+      "name": "UF_Filter",
+      "referenceOnly": true,
+      "placedOnNodeId": "7:1679"
+    },
+    {
+      "name": "UF_Export",
+      "referenceOnly": true,
+      "placedOnNodeId": "7:1990"
+    },
+    {
+      "name": "UF_Create",
+      "referenceOnly": true,
+      "placedOnNodeId": "7:2362"
+    },
+    {
+      "name": "UF_Undo",
+      "referenceOnly": true,
+      "placedOnNodeId": "7:2696"
+    },
+    {
+      "name": "UML_UseCase",
+      "referenceOnly": true,
+      "placedOnNodeId": "7:3003"
+    }
+  ]
+}

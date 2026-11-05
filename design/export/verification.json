@@ -5,6 +5,30 @@
       "pass": true
     },
     {
+      "name": "102 материала по составу эталона",
+      "pass": true
+    },
+    {
+      "name": "13 черновых схем",
+      "pass": true
+    },
+    {
+      "name": "23 финальные схемы",
+      "pass": true
+    },
+    {
+      "name": "8 планшетных макетов",
+      "pass": true
+    },
+    {
+      "name": "20 цветных состояний",
+      "pass": true
+    },
+    {
+      "name": "Контраст 12 пар",
+      "pass": true
+    },
+    {
       "name": "SVG S1_Dark",
       "pass": true
     },
@@ -581,6 +605,198 @@
       "pass": true
     },
     {
+      "name": "SVG S3_Tablet_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S3_Tablet_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S4_Tablet_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S4_Tablet_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S5_Tablet_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S5_Tablet_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S6_Tablet_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S6_Tablet_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S12_Landscape_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S12_Landscape_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S3_Tablet_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S3_Tablet_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG S4_Tablet_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S4_Tablet_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG S5_Tablet_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S5_Tablet_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG S6_Tablet_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S6_Tablet_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG S12_Landscape_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S12_Landscape_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG Wireframe_S12_Portrait",
+      "pass": true
+    },
+    {
+      "name": "PNG Wireframe_S12_Portrait",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_S12_Portrait",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_S12_Portrait",
+      "pass": true
+    },
+    {
+      "name": "SVG Wireframe_S12_Landscape",
+      "pass": true
+    },
+    {
+      "name": "PNG Wireframe_S12_Landscape",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_S12_Landscape",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_S12_Landscape",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_ST_New",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_ST_New",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_ST_Error",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_ST_Error",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_ST_Register",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_ST_Register",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_ST_Empty",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_ST_Empty",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_ST_Saved",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_ST_Saved",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_ST_Exported",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_ST_Exported",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_ST_Filter",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_ST_Filter",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_ST_Undo",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_ST_Undo",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_ST_Layer",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_ST_Layer",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_ST_Blocked",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_ST_Blocked",
+      "pass": true
+    },
+    {
       "name": "SVG UF_Create",
       "pass": true
     },
@@ -639,5 +855,5 @@
   ],
   "issues": [],
   "overflow": [],
-  "summary": "159/159"
+  "summary": "213/213"
 }
