@@ -1,0 +1,13 @@
+{
+  "file": "https://www.figma.com/design/FPaA4Y8YO1qcxkyT9T2xvW",
+  "prototype": "https://www.figma.com/proto/FPaA4Y8YO1qcxkyT9T2xvW?node-id=2-299&starting-point-node-id=2%3A299&scaling=contain",
+  "date": "2026-11-06",
+  "frames": 78,
+  "hotspots": 424,
+  "editableTextNodesOnPrototypePage": 1336,
+  "brokenDestinationIds": [],
+  "hotspotsOutOfFrame": [],
+  "manuallyClickedFlow": ["Войти", "Новый проект", "Создать", "Экспорт", "Скачать"],
+  "observedResult": "Показано состояние ST_Exported_Dark",
+  "limitations": ["Не все ветви пройдены вручную", "Свободный ввод и рисование имитируются", "Пользовательские интервью не проводились"]
+}
