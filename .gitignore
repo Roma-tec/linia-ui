@@ -1,0 +1,9 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+site/
+design/test-downloads/
+design/test-results.json
+tools/upload-local.mjs
