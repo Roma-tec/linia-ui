@@ -3,7 +3,9 @@ node_modules/
 .DS_Store
 Thumbs.db
 
-site/
 design/test-downloads/
 design/test-results.json
 tools/upload-local.mjs
+
+site/fonts/
+site/gallery.html
