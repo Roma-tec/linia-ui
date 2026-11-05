@@ -1,0 +1,22 @@
+{
+  "Dark": {
+    "bg": "#11131a",
+    "panel": "#1c1f29",
+    "raised": "#292e3b",
+    "line": "#3d4558",
+    "text": "#f0f2fa",
+    "muted": "#b2bdd2",
+    "accent": "#b5a1ff",
+    "on": "#181129"
+  },
+  "Light": {
+    "bg": "#f3f4f8",
+    "panel": "#ffffff",
+    "raised": "#eceef5",
+    "line": "#a7afbf",
+    "text": "#202332",
+    "muted": "#535e75",
+    "accent": "#6541c4",
+    "on": "#ffffff"
+  }
+}
