@@ -1,0 +1,643 @@
+{
+  "checks": [
+    {
+      "name": "Уникальные названия",
+      "pass": true
+    },
+    {
+      "name": "SVG S1_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S1_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S2_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S2_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S3_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S3_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S4_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S4_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S5_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S5_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S6_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S6_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S7_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S7_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S8_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S8_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S9_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S9_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S10_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S10_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S11_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S11_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S12_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG S12_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_New_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_New_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Error_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Error_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Register_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Register_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Empty_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Empty_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Saved_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Saved_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Exported_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Exported_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Filter_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Filter_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Undo_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Undo_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Layer_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Layer_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Blocked_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Blocked_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG S1_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S1_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG S2_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S2_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG S3_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S3_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG S4_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S4_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG S5_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S5_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG S6_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S6_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG S7_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S7_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG S8_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S8_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG S9_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S9_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG S10_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S10_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG S11_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S11_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG S12_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG S12_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_New_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_New_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Error_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Error_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Register_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Register_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Empty_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Empty_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Saved_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Saved_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Exported_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Exported_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Filter_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Filter_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Undo_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Undo_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Layer_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Layer_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG ST_Blocked_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG ST_Blocked_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG Wireframe_S1",
+      "pass": true
+    },
+    {
+      "name": "PNG Wireframe_S1",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_S1",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_S1",
+      "pass": true
+    },
+    {
+      "name": "SVG Wireframe_S2",
+      "pass": true
+    },
+    {
+      "name": "PNG Wireframe_S2",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_S2",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_S2",
+      "pass": true
+    },
+    {
+      "name": "SVG Wireframe_S3",
+      "pass": true
+    },
+    {
+      "name": "PNG Wireframe_S3",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_S3",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_S3",
+      "pass": true
+    },
+    {
+      "name": "SVG Wireframe_S4",
+      "pass": true
+    },
+    {
+      "name": "PNG Wireframe_S4",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_S4",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_S4",
+      "pass": true
+    },
+    {
+      "name": "SVG Wireframe_S5",
+      "pass": true
+    },
+    {
+      "name": "PNG Wireframe_S5",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_S5",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_S5",
+      "pass": true
+    },
+    {
+      "name": "SVG Wireframe_S6",
+      "pass": true
+    },
+    {
+      "name": "PNG Wireframe_S6",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_S6",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_S6",
+      "pass": true
+    },
+    {
+      "name": "SVG Wireframe_S7",
+      "pass": true
+    },
+    {
+      "name": "PNG Wireframe_S7",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_S7",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_S7",
+      "pass": true
+    },
+    {
+      "name": "SVG Wireframe_S8",
+      "pass": true
+    },
+    {
+      "name": "PNG Wireframe_S8",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_S8",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_S8",
+      "pass": true
+    },
+    {
+      "name": "SVG Wireframe_S9",
+      "pass": true
+    },
+    {
+      "name": "PNG Wireframe_S9",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_S9",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_S9",
+      "pass": true
+    },
+    {
+      "name": "SVG Wireframe_S10",
+      "pass": true
+    },
+    {
+      "name": "PNG Wireframe_S10",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_S10",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_S10",
+      "pass": true
+    },
+    {
+      "name": "SVG Wireframe_S11",
+      "pass": true
+    },
+    {
+      "name": "PNG Wireframe_S11",
+      "pass": true
+    },
+    {
+      "name": "SVG Prototype_S11",
+      "pass": true
+    },
+    {
+      "name": "PNG Prototype_S11",
+      "pass": true
+    },
+    {
+      "name": "SVG UI_Kit_Dark",
+      "pass": true
+    },
+    {
+      "name": "PNG UI_Kit_Dark",
+      "pass": true
+    },
+    {
+      "name": "SVG UI_Kit_Light",
+      "pass": true
+    },
+    {
+      "name": "PNG UI_Kit_Light",
+      "pass": true
+    },
+    {
+      "name": "SVG Moodboard_A",
+      "pass": true
+    },
+    {
+      "name": "PNG Moodboard_A",
+      "pass": true
+    },
+    {
+      "name": "SVG Moodboard_B",
+      "pass": true
+    },
+    {
+      "name": "PNG Moodboard_B",
+      "pass": true
+    },
+    {
+      "name": "SVG Moodboard_C",
+      "pass": true
+    },
+    {
+      "name": "PNG Moodboard_C",
+      "pass": true
+    },
+    {
+      "name": "SVG 00_Cover",
+      "pass": true
+    },
+    {
+      "name": "PNG 00_Cover",
+      "pass": true
+    },
+    {
+      "name": "SVG UF_Create",
+      "pass": true
+    },
+    {
+      "name": "PNG UF_Create",
+      "pass": true
+    },
+    {
+      "name": "SVG UF_Filter",
+      "pass": true
+    },
+    {
+      "name": "PNG UF_Filter",
+      "pass": true
+    },
+    {
+      "name": "SVG UF_Export",
+      "pass": true
+    },
+    {
+      "name": "PNG UF_Export",
+      "pass": true
+    },
+    {
+      "name": "SVG UF_Undo",
+      "pass": true
+    },
+    {
+      "name": "PNG UF_Undo",
+      "pass": true
+    },
+    {
+      "name": "SVG A4_User_Flow_Map",
+      "pass": true
+    },
+    {
+      "name": "PNG A4_User_Flow_Map",
+      "pass": true
+    },
+    {
+      "name": "SVG UML_UseCase",
+      "pass": true
+    },
+    {
+      "name": "PNG UML_UseCase",
+      "pass": true
+    },
+    {
+      "name": "Цели и области переходов допустимы",
+      "pass": true
+    },
+    {
+      "name": "Текст внутри внешних границ",
+      "pass": true
+    }
+  ],
+  "issues": [],
+  "overflow": [],
+  "summary": "159/159"
+}
